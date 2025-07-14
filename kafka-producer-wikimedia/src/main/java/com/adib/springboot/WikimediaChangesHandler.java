@@ -41,7 +41,6 @@ public class WikimediaChangesHandler implements EventHandler
 
     @Override
     public void onError(Throwable throwable) {
-     return null;
 
     }
 }
