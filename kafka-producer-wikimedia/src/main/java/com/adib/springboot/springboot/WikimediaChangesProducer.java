@@ -1,4 +1,4 @@
-package com.adib.springboot;
+package com.adib.springboot.springboot;
 
 import com.launchdarkly.eventsource.EventHandler;
 import com.launchdarkly.eventsource.EventSource;

@@ -1,4 +1,4 @@
-package com.adib.springboot;
+package com.adib.springboot.springboot;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;

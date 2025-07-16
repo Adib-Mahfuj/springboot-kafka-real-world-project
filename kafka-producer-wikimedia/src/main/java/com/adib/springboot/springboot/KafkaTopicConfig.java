@@ -1,4 +1,4 @@
-package com.adib.springboot;
+package com.adib.springboot.springboot;
 
 import org.apache.kafka.clients.admin.NewTopic;
 import org.springframework.context.annotation.Bean;
